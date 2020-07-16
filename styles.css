@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body{
-  background-image: url('image.jpeg');
+  background-image: url('C:\Users\user\fullstack-course4\examples\Lecture25');
 }
 .header {
     background-color: black;
@@ -27,11 +27,4 @@ body{
 
 .navbar a:hover {
   background-color: #000;
-}
-img {
-  display: block;
-  width: 25%;
-  margin-left: auto;
-  margin-right: auto;
-  opacity: 0.2;
 }
